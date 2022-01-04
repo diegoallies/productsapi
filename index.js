@@ -14,9 +14,6 @@ fetch("https://fakestoreapi.com/products")
             </div>
            
           </div>
-      
-      
-     
-
         `});
+        
 });
